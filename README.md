@@ -8,11 +8,15 @@ DevSync was created by developers for developers. We are facilitating the job ma
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Links](#Links)
-- [Technologies](#Technologies)
-- [License](#License)
+- [DevSync](#devsync)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Links](#links)
+  - [Technologies](#technologies)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
 ## Installation
 
@@ -39,7 +43,7 @@ DevSync was created by developers for developers. We are facilitating the job ma
 
 ## Links
 
-- [Github](https://github.com/jongomezdev/Project-3)
+- [Github](https://github.com/gtscott90/DevSync)
 - [Deployed App](https://devsync-project-3.herokuapp.com/)
 
 ## Technologies
@@ -70,11 +74,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>
 
 @genis96
 @gtscott90
+@jongomezdev
 
 ## Questions
 
 Check out my other repositories in the link below:
 
-- [GitHub Profile](https://github.com/jongomezdev)
+- [GitHub Profile](https://github.com/gtscott90)
 
-- For any additional questions, please [email](mailto:jongomezdev@gmail.com) me.
+- For any additional questions, please [email](mailto:gtscott90@gmail.com) me.
